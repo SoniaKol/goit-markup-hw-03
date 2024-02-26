@@ -1,0 +1,121 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #434455;
+  background-color: #fcfcfc;
+}
+
+a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+a:hover {
+  color: #404bbf;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo,
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.166;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+}
+
+.logo {
+  color: #2e2f42;
+}
+
+.logo-footer {
+  color: #f4f4fd;
+}
+.logo-accent {
+  color: #4d5ae5;
+}
+
+.menu-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+
+.studio-underline:hover {
+  text-decoration: underline;
+}
+
+.contact-nav {
+  font-style: normal;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-moto {
+  color: #ffffff;
+  text-align: center;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 2%;
+}
+
+.order-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 4%;
+  cursor: pointer;
+}
+.order-button:hover {
+  background-color: #404bbf;
+}
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.111;
+  letter-spacing: 2%;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 2%;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-card {
+  background-color: #ffffff;
+}
+
+.team-card h3,
+.team-card p {
+  text-align: center;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.page-footer p {
+  color: #f4f4fd;
+}
