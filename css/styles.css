@@ -121,6 +121,7 @@ address {
 
 .team {
   background-color: #f4f4fd;
+  text-transform: capitalize;
 }
 
 .team-titel {
@@ -137,7 +138,6 @@ address {
 }
 
 .team-card-titel {
-  text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -158,7 +158,6 @@ address {
 /*section portfolio*/
 
 .portfolio-titel {
-  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -168,6 +167,7 @@ address {
 }
 
 .portfolio-item-titel {
+  text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
